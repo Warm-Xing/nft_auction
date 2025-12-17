@@ -20,4 +20,4 @@ npm uninstall @nomiclabs/hardhat-ethers
 npm install --save-dev @nomicfoundation/hardhat-ethers
 # 2. 重新安装其他依赖（此时无冲突）
 npm install @openzeppelin/contracts @chainlink/contracts hardhat-deploy
-###安装必要项目依赖：npm install @openzeppelin/contracts @chainlink/contracts @nomiclabs/hardhat-ethers hardhat-deploy 步骤###
+###安装必要项目依赖：npm install @openzeppelin/contracts @chainlink/contracts @nomiclabs/hardhat-ethers hardhat-deploy 步骤####
